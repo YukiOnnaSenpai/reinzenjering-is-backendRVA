@@ -19,5 +19,4 @@ public class BackendRvaApplicationTests {
 		assertEquals(fillingTest, fillingCase);
 		assertNull(fillingCase);
 	}
-
 }
